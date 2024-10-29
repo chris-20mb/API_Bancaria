@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "api-bancaria"
+version = "0.1.0"
+description = ""
+authors = ["Christopher <christophermachado222@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+alembic = "*"
+uvicorn = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

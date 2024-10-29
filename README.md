@@ -9,8 +9,6 @@ Implementação de uma API RESTful assíncrona usando FastAPI para gerenciar ope
 <ul>
   <li><strong>Cadastro de Transações: </strong>Permite o cadastro de transações 
   bancárias, como depósitos e saques.</li>
-  <li><strong>Cadastro de Transações: </strong>Permite o cadastro de transações 
-  bancárias, como depósitos e saques.</li>
   <li><strong>Exibição de Extrato: </strong>Endpoint para exibir o extrato de uma 
   conta e mostrar todas as transações realizadas.</li>
   <li><strong>Autenticação com JWT: </strong>Utiliza JWT(JSON Web Tokens) para 

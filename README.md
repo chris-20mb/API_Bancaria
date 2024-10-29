@@ -26,4 +26,8 @@ Implementação de uma API RESTful assíncrona usando FastAPI para gerenciar ope
   correntes e transações.</li>
   <li><strong>Validação das operações: </strong>Não permite depósitos e saques com 
   valores negativos e valida se o usuário possui saldo para realizar o saque.</li>
+  <li><strong>Segurança: </strong>Autenticação com JWT para proteger os endpoints 
+  que necessitam de acesso autenticado.</li>
+  <li><strong>Documentação com OpenAPI: </strong>API documentada com descrições 
+  para cada endpoint, parâmetros e modelos de dados</li>
 </ul>

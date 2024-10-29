@@ -4,7 +4,7 @@
 Implementação de uma API RESTful assíncrona usando FastAPI para gerenciar operações bancárias de depósitos e saques, vinculadas a contas correntes. Este projeto utiliza autenticação JWT e práticas recomendadas de design de APIs.
 
 
-##Funcionalidades
+<h2>Funcionalidades</h2>
 
 <ul>
   <li><strong>Cadastro de Transações: </strong>Permite o cadastro de transações 
@@ -19,7 +19,7 @@ Implementação de uma API RESTful assíncrona usando FastAPI para gerenciar ope
 </ul>
 
 
-##Requisitos Técnicos
+<h2>Requisitos Técnicos</h2>
 
 <ul>
   <li><strong>FastAPI: </strong>Utiliza FastAPI como framework e recursos 
